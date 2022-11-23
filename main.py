@@ -6,4 +6,5 @@ clock = pygame.time.Clock()
 screen = pygame.display.set_mode((600, 600))
 display = pygame.Surface((300, 300))
 
+while True
 
